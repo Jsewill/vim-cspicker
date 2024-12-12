@@ -28,7 +28,7 @@ install using vim-plug:
 
 [source,vim]
 ----
-Plug 'shwnchpl/vim-scpicker'
+Plug 'shwnchpl/vim-cspicker'
 ----
 
 
